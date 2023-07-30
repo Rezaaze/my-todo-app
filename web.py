@@ -28,4 +28,3 @@ for index, todo in enumerate(todos):
         st._rerun()
 
 
-st.session_state
